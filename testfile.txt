@@ -1,1 +1,2 @@
 my test file for SSH key
+We added another line to update the file
